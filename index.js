@@ -2,3 +2,8 @@
 function scuberGreetingForFeet(feet) {
 
 }
+
+function ternaryCheckCity(destination) {
+  
+}
+
